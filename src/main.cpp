@@ -2,7 +2,8 @@
 * Graduando em Engenharia de Computação
 * Universidade Federal do Ceará - UFC
 *
-Switch Tilt KY-020: Codigo para ler o valor do sensor de inclinação KY-020
+Switch Tilt KY-020: Codigo para ler o valor do sensor de inclinação KY-020.
+Caso haja inclinação o sensor manda um sinal em alto, do contrário envia um sinal em baixo.
 */
 
 //Bibliotecas
